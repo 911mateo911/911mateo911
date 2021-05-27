@@ -2,6 +2,8 @@
 
 ## A full-MERN-stack web dev. ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+<img src='https://www.codewars.com/users/911mateo911/badges/large' />
+
 # What i know, and planning to master:
 
 - HTML/CSS/JS
