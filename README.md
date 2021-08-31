@@ -1,6 +1,6 @@
 ### I'm Mateo <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## A full-MERN-stack web dev. ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+## A react web developer. ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <img src='https://www.codewars.com/users/911mateo911/badges/large' />
 
@@ -8,6 +8,7 @@
 
 - HTML/CSS/JS
 - REACT
+- Next JS
 - NODE
 - EXPRESS
 - Mongo/Firebase/Dynamo/Redis, and more NO-SQL databases
