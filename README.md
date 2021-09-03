@@ -10,6 +10,11 @@
 - REACT
 - Next JS
 - NODE
+- GraphQL (learning as we speak)
+- Atomic Patters
+- Redux
+- SCSS
+- Gatsby (no experience)
 - EXPRESS
 - Mongo/Firebase/Dynamo/Redis, and more NO-SQL databases
 - SQL knowledge
