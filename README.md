@@ -9,12 +9,11 @@
 - HTML/CSS/JS
 - REACT
 - Next JS
-- NODE
+- NODE JS
 - GraphQL (learning as we speak)
-- Atomic Patters
+- Atomic Patterns
 - Redux
 - SCSS
-- Gatsby (no experience)
 - EXPRESS
 - Mongo/Firebase/Dynamo/Redis, and more NO-SQL databases
 - SQL knowledge
