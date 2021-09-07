@@ -11,7 +11,7 @@
 - Next JS
 - NODE JS
 - GraphQL (learning as we speak)
-- Atomic Patterns
+- Atomic Pattern
 - Redux
 - SCSS
 - EXPRESS
