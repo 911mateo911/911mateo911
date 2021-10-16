@@ -7,14 +7,19 @@
 # What i know, and planning to master:
 
 - HTML/CSS/JS
-- REACT
+- React
+- React architecture and patterns (fiber api/ flux pattern/ best practices)
 - Next JS
-- NODE JS
-- GraphQL (learning as we speak)
+- Testing: Jest/Enzyme/Cypress
+- Monorepo: yarn workspaces/nx
+- Node JS
+- GraphQL
 - Atomic Pattern
 - Redux
+- Recoil
 - SCSS
-- EXPRESS
+- Express
+- Advanced Js concepts (instructor: Andrei Neagoie)
 - Mongo/Firebase/Dynamo/Redis, and more NO-SQL databases
 - SQL knowledge
 - Javascript algorithms and data structures
