@@ -2,11 +2,10 @@
 
 ## A react developer. ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+<img src='https://www.codewars.com/users/911mateo911/badges/large' />
 ![](https://github-readme-stats.vercel.app/api?username=911mateo911&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=911mateo911&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=911mateo911&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src='https://www.codewars.com/users/911mateo911/badges/large' />
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
