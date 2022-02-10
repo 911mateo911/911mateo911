@@ -4,7 +4,6 @@
 
 <img src='https://www.codewars.com/users/911mateo911/badges/large' />
 
-![](https://github-readme-stats.vercel.app/api?username=911mateo911&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=911mateo911&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=911mateo911&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
